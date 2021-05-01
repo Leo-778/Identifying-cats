@@ -260,7 +260,7 @@ plt.show()
 
 #-使用自己的图像进行测试
 # change this to the name of your image file
-my_image = "my_image.jpg"   
+my_image = "233.jpg"   
 
 # We preprocess the image to fit your algorithm.
 fname = "images/" + my_image
